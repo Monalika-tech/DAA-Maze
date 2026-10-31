@@ -1,0 +1,25 @@
+Category,Algorithm,Matrix_Dimension,Time_Mean_ms,Time_Std_ms,Peak_Memory_KB,Nodes_Expanded,Path_Length
+Generation,Randomized DFS,21,0.7481,0.1765,7.67,N/A,N/A
+Generation,Randomized DFS,51,6.0535,2.9418,37.46,N/A,N/A
+Generation,Randomized DFS,101,16.7119,1.4293,134.36,N/A,N/A
+Generation,Randomized Prim's,21,0.6181,0.1865,7.37,N/A,N/A
+Generation,Randomized Prim's,51,4.7524,1.4219,33.29,N/A,N/A
+Generation,Randomized Prim's,101,18.8252,1.8480,115.97,N/A,N/A
+Generation,Randomized Kruskal's,21,0.7385,0.3669,11.77,N/A,N/A
+Generation,Randomized Kruskal's,51,8.2866,1.7105,110.57,N/A,N/A
+Generation,Randomized Kruskal's,101,51.1476,3.1073,669.33,N/A,N/A
+Pathfinding,BFS,21,0.8012,0.1477,24.46,199.0,38.3
+Pathfinding,BFS,51,6.2731,0.5310,208.73,1241.0,103.7
+Pathfinding,BFS,101,39.6237,8.7474,992.89,4997.7,215.7
+Pathfinding,Dijkstra,21,1.3480,0.3047,35.04,199.0,38.3
+Pathfinding,Dijkstra,51,12.3110,1.8770,247.82,1241.0,103.7
+Pathfinding,Dijkstra,101,64.9173,10.1396,1292.84,4997.7,215.7
+Pathfinding,A* (Manhattan),21,0.5982,0.1523,16.14,85.7,38.3
+Pathfinding,A* (Manhattan),51,6.0038,2.8644,88.54,481.7,103.7
+Pathfinding,A* (Manhattan),101,45.7317,21.1803,629.02,3094.3,215.7
+Pathfinding,A* (Euclidean),21,1.0112,0.0704,20.66,145.3,38.3
+Pathfinding,A* (Euclidean),51,12.5154,1.5708,144.26,998.0,103.7
+Pathfinding,A* (Euclidean),101,82.4490,12.7185,694.88,4416.7,215.7
+Pathfinding,Greedy Best-First,21,0.5832,0.1393,15.77,108.3,38.3
+Pathfinding,Greedy Best-First,51,5.7746,0.9162,72.60,612.3,103.7
+Pathfinding,Greedy Best-First,101,21.5103,9.6206,304.09,2357.7,215.7
